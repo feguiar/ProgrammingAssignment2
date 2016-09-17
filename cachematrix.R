@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-##This function solve de matrix and returns it, if the matrix is already solved (m!=NULL) it returns the cached matrix(m)
+##This function solve the matrix and returns it, if the matrix is already solved (m!=NULL) it returns the cached matrix(m)
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
